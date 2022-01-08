@@ -1,6 +1,6 @@
 # ProyectoCursoGitHub  📚
 
-> 🙋‍♀️ Hello. my name is Rocio!
+> 🙋‍♀️ Hello, my name is Rocio!
 
 Este es un proyecto para practicar lo aprendido 
 en el curso de Git / GitHub de Platzi.  
