@@ -1,6 +1,6 @@
-# ProyectoCursoGitHub  :tw-1f4da:
+# ProyectoCursoGitHub  📚
 
-> :tw-1f64b: Hello!
+> 🙋‍♀️ Hello!
 
 Este es un proyecto para practicar lo aprendido 
 en el curso de Git / GitHub de Platzi.  
